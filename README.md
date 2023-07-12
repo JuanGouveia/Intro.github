@@ -20,6 +20,7 @@
 - 👯 I’m looking to collaborate on **a challenging and motivating data analysis project**
 
 - 📫 How to reach me **jdegouveiaf@gmail.com**
+
 <br>
 </details>
 
@@ -37,6 +38,7 @@
     <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
     </a>
 </div>
+    
 <br>
 </details>
 
@@ -60,6 +62,7 @@
 <br>
 <p> </p>
 </div>
+    
 </details>
 
 
