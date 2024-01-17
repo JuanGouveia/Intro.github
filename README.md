@@ -7,7 +7,7 @@
 <br>
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="60px" /> Briefly about me </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/Developer.gif" width="60px" /> Briefly about me </h2></summary>
 <br>
     
 <p align="center"> I am a novice Data Analyst from Madrid 📊</p>
@@ -47,7 +47,7 @@
 
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://camo.githubusercontent.com/bfec983eaab15021dfc7645f804b2f2c40829b779bfe8f35332debc4b3c5c5bd/68747470733a2f2f697374657669742e696e2f7075626c69632f696d67732f746563682e676966" width="40px"> Languages and Tools </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/laptop_code.gif" width="40px"> Languages and Tools </h2></summary>
     <br>
 <div align="center">
 <p></p>
